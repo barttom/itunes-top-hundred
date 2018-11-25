@@ -1,0 +1,1228 @@
+{
+  "author": {
+    "name": { "label": "iTunes Store" },
+    "uri": { "label": "http://www.apple.com/itunes/" }
+  },
+  "entry": [
+    {
+      "im:name": {
+        "label": "The Platinum Collection (Greatest Hits I, II & III)"
+      },
+      "im:image": [
+        {
+          "label": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/db/a3/9a/dba39a3c-03fc-94a4-8f94-a8a69d9cdf5c/UMG_cvrart_00050087319090_01_RGB72_1500x1500_14DMGIM05632.jpg/55x55bb-85.png",
+          "attributes": { "height": "55" }
+        },
+        {
+          "label": "https://is2-ssl.mzstatic.com/image/thumb/Music3/v4/db/a3/9a/dba39a3c-03fc-94a4-8f94-a8a69d9cdf5c/UMG_cvrart_00050087319090_01_RGB72_1500x1500_14DMGIM05632.jpg/60x60bb-85.png",
+          "attributes": { "height": "60" }
+        },
+        {
+          "label": "https://is5-ssl.mzstatic.com/image/thumb/Music3/v4/db/a3/9a/dba39a3c-03fc-94a4-8f94-a8a69d9cdf5c/UMG_cvrart_00050087319090_01_RGB72_1500x1500_14DMGIM05632.jpg/170x170bb-85.png",
+          "attributes": { "height": "170" }
+        }
+      ],
+      "im:itemCount": { "label": "51" },
+      "im:price": {
+        "label": "$19.99",
+        "attributes": { "amount": "19.99000", "currency": "USD" }
+      },
+      "im:contentType": {
+        "im:contentType": {
+          "attributes": { "term": "Album", "label": "Album" }
+        },
+        "attributes": { "term": "Music", "label": "Music" }
+      },
+      "rights": { "label": "℗ 2014 Hollywood Records, Inc." },
+      "title": {
+        "label": "The Platinum Collection (Greatest Hits I, II & III) - Queen"
+      },
+      "link": {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://itunes.apple.com/us/album/the-platinum-collection-greatest-hits-i-ii-iii/932648190?uo=2"
+        }
+      },
+      "id": {
+        "label": "https://itunes.apple.com/us/album/the-platinum-collection-greatest-hits-i-ii-iii/932648190?uo=2",
+        "attributes": { "im:id": "932648190" }
+      },
+      "im:artist": {
+        "label": "Queen",
+        "attributes": {
+          "href": "https://itunes.apple.com/us/artist/queen/3296287?uo=2"
+        }
+      },
+      "category": {
+        "attributes": {
+          "im:id": "21",
+          "term": "Rock",
+          "scheme": "https://itunes.apple.com/us/genre/music-rock/id21?uo=2",
+          "label": "Rock"
+        }
+      },
+      "im:releaseDate": {
+        "label": "2000-11-13T00:00:00-07:00",
+        "attributes": { "label": "November 13, 2000" }
+      }
+    },
+    {
+      "im:name": {
+        "label": "The Greatest Showman (Original Motion Picture Soundtrack)"
+      },
+      "im:image": [
+        {
+          "label": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/c1/7b/a9/c17ba975-34aa-ee68-d3c9-e1db840fa06b/075679886613.jpg/55x55bb-85.png",
+          "attributes": { "height": "55" }
+        },
+        {
+          "label": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/c1/7b/a9/c17ba975-34aa-ee68-d3c9-e1db840fa06b/075679886613.jpg/60x60bb-85.png",
+          "attributes": { "height": "60" }
+        },
+        {
+          "label": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/c1/7b/a9/c17ba975-34aa-ee68-d3c9-e1db840fa06b/075679886613.jpg/170x170bb-85.png",
+          "attributes": { "height": "170" }
+        }
+      ],
+      "im:itemCount": { "label": "11" },
+      "im:price": {
+        "label": "$9.99",
+        "attributes": { "amount": "9.99000", "currency": "USD" }
+      },
+      "im:contentType": {
+        "im:contentType": {
+          "attributes": { "term": "Album", "label": "Album" }
+        },
+        "attributes": { "term": "Music", "label": "Music" }
+      },
+      "rights": {
+        "label": "℗ 2017 This compilation Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. Motion Picture Artwork, Photos, and Fox Trademarks and Logos TM and © 2017 Twentieth Century Fox Film Corporation."
+      },
+      "title": {
+        "label": "The Greatest Showman (Original Motion Picture Soundtrack) - Various Artists"
+      },
+      "link": {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://itunes.apple.com/us/album/the-greatest-showman-original-motion-picture-soundtrack/1299856714?uo=2"
+        }
+      },
+      "id": {
+        "label": "https://itunes.apple.com/us/album/the-greatest-showman-original-motion-picture-soundtrack/1299856714?uo=2",
+        "attributes": { "im:id": "1299856714" }
+      },
+      "im:artist": { "label": "Various Artists" },
+      "category": {
+        "attributes": {
+          "im:id": "16",
+          "term": "Soundtrack",
+          "scheme": "https://itunes.apple.com/us/genre/music-soundtrack/id16?uo=2",
+          "label": "Soundtrack"
+        }
+      },
+      "im:releaseDate": {
+        "label": "2017-12-08T00:00:00-07:00",
+        "attributes": { "label": "December 8, 2017" }
+      }
+    },
+    {
+      "im:name": { "label": "Christmas Is Here!" },
+      "im:image": [
+        {
+          "label": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/bb/26/0a/bb260a73-1f2a-0dce-98ac-a1e0694f8040/886447285084.jpg/55x55bb-85.png",
+          "attributes": { "height": "55" }
+        },
+        {
+          "label": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/bb/26/0a/bb260a73-1f2a-0dce-98ac-a1e0694f8040/886447285084.jpg/60x60bb-85.png",
+          "attributes": { "height": "60" }
+        },
+        {
+          "label": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/bb/26/0a/bb260a73-1f2a-0dce-98ac-a1e0694f8040/886447285084.jpg/170x170bb-85.png",
+          "attributes": { "height": "170" }
+        }
+      ],
+      "im:itemCount": { "label": "12" },
+      "im:price": {
+        "label": "$9.99",
+        "attributes": { "amount": "9.99000", "currency": "USD" }
+      },
+      "im:contentType": {
+        "im:contentType": {
+          "attributes": { "term": "Album", "label": "Album" }
+        },
+        "attributes": { "term": "Music", "label": "Music" }
+      },
+      "rights": {
+        "label": "℗ 2018 RCA Records, a division of Sony Music Entertainment"
+      },
+      "title": { "label": "Christmas Is Here! - Pentatonix" },
+      "link": {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://itunes.apple.com/us/album/christmas-is-here/1438662939?uo=2"
+        }
+      },
+      "id": {
+        "label": "https://itunes.apple.com/us/album/christmas-is-here/1438662939?uo=2",
+        "attributes": { "im:id": "1438662939" }
+      },
+      "im:artist": {
+        "label": "Pentatonix",
+        "attributes": {
+          "href": "https://itunes.apple.com/us/artist/pentatonix/466047278?uo=2"
+        }
+      },
+      "category": {
+        "attributes": {
+          "im:id": "8",
+          "term": "Holiday",
+          "scheme": "https://itunes.apple.com/us/genre/music-holiday/id8?uo=2",
+          "label": "Holiday"
+        }
+      },
+      "im:releaseDate": {
+        "label": "2018-10-26T00:00:00-07:00",
+        "attributes": { "label": "October 26, 2018" }
+      }
+    },
+    {
+      "im:name": { "label": "The Greatest Showman: Reimagined" },
+      "im:image": [
+        {
+          "label": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/93/92/f2/9392f23e-ab11-89c1-9bff-61132e917d08/075679877116.jpg/55x55bb-85.png",
+          "attributes": { "height": "55" }
+        },
+        {
+          "label": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/93/92/f2/9392f23e-ab11-89c1-9bff-61132e917d08/075679877116.jpg/60x60bb-85.png",
+          "attributes": { "height": "60" }
+        },
+        {
+          "label": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/93/92/f2/9392f23e-ab11-89c1-9bff-61132e917d08/075679877116.jpg/170x170bb-85.png",
+          "attributes": { "height": "170" }
+        }
+      ],
+      "im:itemCount": { "label": "13" },
+      "im:price": {
+        "label": "$9.99",
+        "attributes": { "amount": "9.99000", "currency": "USD" }
+      },
+      "im:contentType": {
+        "im:contentType": {
+          "attributes": { "term": "Album", "label": "Album" }
+        },
+        "attributes": { "term": "Music", "label": "Music" }
+      },
+      "rights": {
+        "label": "℗ 2018 This compilation Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. Motion Picture Artwork, Photos, and Fox Trademarks and Logos TM and © 2018 Twentieth Century Fox Film Corporation."
+      },
+      "title": {
+        "label": "The Greatest Showman: Reimagined - Various Artists"
+      },
+      "link": {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://itunes.apple.com/us/album/the-greatest-showman-reimagined/1439343342?uo=2"
+        }
+      },
+      "id": {
+        "label": "https://itunes.apple.com/us/album/the-greatest-showman-reimagined/1439343342?uo=2",
+        "attributes": { "im:id": "1439343342" }
+      },
+      "im:artist": { "label": "Various Artists" },
+      "category": {
+        "attributes": {
+          "im:id": "14",
+          "term": "Pop",
+          "scheme": "https://itunes.apple.com/us/genre/music-pop/id14?uo=2",
+          "label": "Pop"
+        }
+      },
+      "im:releaseDate": {
+        "label": "2018-11-16T00:00:00-07:00",
+        "attributes": { "label": "November 16, 2018" }
+      }
+    },
+    {
+      "im:name": { "label": "Greatest Hits" },
+      "im:image": [
+        {
+          "label": "https://is3-ssl.mzstatic.com/image/thumb/Music1/v4/08/b2/bb/08b2bbfa-cc60-9e73-da77-aeb45f0aef79/UMG_cvrart_00050087319175_01_RGB72_1500x1500_14DMGIM05636.jpg/55x55bb-85.png",
+          "attributes": { "height": "55" }
+        },
+        {
+          "label": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/08/b2/bb/08b2bbfa-cc60-9e73-da77-aeb45f0aef79/UMG_cvrart_00050087319175_01_RGB72_1500x1500_14DMGIM05636.jpg/60x60bb-85.png",
+          "attributes": { "height": "60" }
+        },
+        {
+          "label": "https://is5-ssl.mzstatic.com/image/thumb/Music1/v4/08/b2/bb/08b2bbfa-cc60-9e73-da77-aeb45f0aef79/UMG_cvrart_00050087319175_01_RGB72_1500x1500_14DMGIM05636.jpg/170x170bb-85.png",
+          "attributes": { "height": "170" }
+        }
+      ],
+      "im:itemCount": { "label": "17" },
+      "im:price": {
+        "label": "$10.99",
+        "attributes": { "amount": "10.99000", "currency": "USD" }
+      },
+      "im:contentType": {
+        "im:contentType": {
+          "attributes": { "term": "Album", "label": "Album" }
+        },
+        "attributes": { "term": "Music", "label": "Music" }
+      },
+      "rights": { "label": "℗ 2014 Hollywood Records, Inc." },
+      "title": { "label": "Greatest Hits - Queen" },
+      "link": {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://itunes.apple.com/us/album/greatest-hits/932694528?uo=2"
+        }
+      },
+      "id": {
+        "label": "https://itunes.apple.com/us/album/greatest-hits/932694528?uo=2",
+        "attributes": { "im:id": "932694528" }
+      },
+      "im:artist": {
+        "label": "Queen",
+        "attributes": {
+          "href": "https://itunes.apple.com/us/artist/queen/3296287?uo=2"
+        }
+      },
+      "category": {
+        "attributes": {
+          "im:id": "21",
+          "term": "Rock",
+          "scheme": "https://itunes.apple.com/us/genre/music-rock/id21?uo=2",
+          "label": "Rock"
+        }
+      },
+      "im:releaseDate": {
+        "label": "1981-10-26T00:00:00-07:00",
+        "attributes": { "label": "October 26, 1981" }
+      }
+    },
+    {
+      "im:name": { "label": "Delta" },
+      "im:image": [
+        {
+          "label": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/47/21/19/472119fe-faab-e48a-418d-cbe729156183/00044003199552.rgb.jpg/55x55bb-85.png",
+          "attributes": { "height": "55" }
+        },
+        {
+          "label": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/47/21/19/472119fe-faab-e48a-418d-cbe729156183/00044003199552.rgb.jpg/60x60bb-85.png",
+          "attributes": { "height": "60" }
+        },
+        {
+          "label": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/47/21/19/472119fe-faab-e48a-418d-cbe729156183/00044003199552.rgb.jpg/170x170bb-85.png",
+          "attributes": { "height": "170" }
+        }
+      ],
+      "im:itemCount": { "label": "14" },
+      "im:price": {
+        "label": "$11.99",
+        "attributes": { "amount": "11.99000", "currency": "USD" }
+      },
+      "im:contentType": {
+        "im:contentType": {
+          "attributes": { "term": "Album", "label": "Album" }
+        },
+        "attributes": { "term": "Music", "label": "Music" }
+      },
+      "rights": {
+        "label": "℗ 2018 Mumford & Sons, under exclusive license to Glassnote Entertainment Group LLC"
+      },
+      "title": { "label": "Delta - Mumford & Sons" },
+      "link": {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://itunes.apple.com/us/album/delta/1436532915?uo=2"
+        }
+      },
+      "id": {
+        "label": "https://itunes.apple.com/us/album/delta/1436532915?uo=2",
+        "attributes": { "im:id": "1436532915" }
+      },
+      "im:artist": {
+        "label": "Mumford & Sons",
+        "attributes": {
+          "href": "https://itunes.apple.com/us/artist/mumford-sons/307699986?uo=2"
+        }
+      },
+      "category": {
+        "attributes": {
+          "im:id": "20",
+          "term": "Alternative",
+          "scheme": "https://itunes.apple.com/us/genre/music-alternative/id20?uo=2",
+          "label": "Alternative"
+        }
+      },
+      "im:releaseDate": {
+        "label": "2018-11-16T00:00:00-07:00",
+        "attributes": { "label": "November 16, 2018" }
+      }
+    },
+    {
+      "im:name": {
+        "label": "The Essential NOW That's What I Call Christmas"
+      },
+      "im:image": [
+        {
+          "label": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/6e/6b/87/6e6b87ce-8fe2-b87c-947f-5f62d7af3eea/dj.aqrdxoyq.jpg/55x55bb-85.png",
+          "attributes": { "height": "55" }
+        },
+        {
+          "label": "https://is2-ssl.mzstatic.com/image/thumb/Music71/v4/6e/6b/87/6e6b87ce-8fe2-b87c-947f-5f62d7af3eea/dj.aqrdxoyq.jpg/60x60bb-85.png",
+          "attributes": { "height": "60" }
+        },
+        {
+          "label": "https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/6e/6b/87/6e6b87ce-8fe2-b87c-947f-5f62d7af3eea/dj.aqrdxoyq.jpg/170x170bb-85.png",
+          "attributes": { "height": "170" }
+        }
+      ],
+      "im:itemCount": { "label": "25" },
+      "im:price": {
+        "label": "$8.99",
+        "attributes": { "amount": "8.99000", "currency": "USD" }
+      },
+      "im:contentType": {
+        "im:contentType": {
+          "attributes": { "term": "Album", "label": "Album" }
+        },
+        "attributes": { "term": "Music", "label": "Music" }
+      },
+      "rights": {
+        "label": "℗ 2008 EMI Music North America / Sony BMG Music / UMG Recordings, Inc."
+      },
+      "title": {
+        "label": "The Essential NOW That's What I Call Christmas - Various Artists"
+      },
+      "link": {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://itunes.apple.com/us/album/the-essential-now-thats-what-i-call-christmas/291184660?uo=2"
+        }
+      },
+      "id": {
+        "label": "https://itunes.apple.com/us/album/the-essential-now-thats-what-i-call-christmas/291184660?uo=2",
+        "attributes": { "im:id": "291184660" }
+      },
+      "im:artist": { "label": "Various Artists" },
+      "category": {
+        "attributes": {
+          "im:id": "8",
+          "term": "Holiday",
+          "scheme": "https://itunes.apple.com/us/genre/music-holiday/id8?uo=2",
+          "label": "Holiday"
+        }
+      },
+      "im:releaseDate": {
+        "label": "2008-01-01T00:00:00-07:00",
+        "attributes": { "label": "January 1, 2008" }
+      }
+    },
+    {
+      "im:name": { "label": "A Legendary Christmas" },
+      "im:image": [
+        {
+          "label": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/76/3c/0c/763c0c50-cfcd-4980-a080-dad2b2e449b9/886447331729.jpg/55x55bb-85.png",
+          "attributes": { "height": "55" }
+        },
+        {
+          "label": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/76/3c/0c/763c0c50-cfcd-4980-a080-dad2b2e449b9/886447331729.jpg/60x60bb-85.png",
+          "attributes": { "height": "60" }
+        },
+        {
+          "label": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/76/3c/0c/763c0c50-cfcd-4980-a080-dad2b2e449b9/886447331729.jpg/170x170bb-85.png",
+          "attributes": { "height": "170" }
+        }
+      ],
+      "im:itemCount": { "label": "14" },
+      "im:price": {
+        "label": "$10.99",
+        "attributes": { "amount": "10.99000", "currency": "USD" }
+      },
+      "im:contentType": {
+        "im:contentType": {
+          "attributes": { "term": "Album", "label": "Album" }
+        },
+        "attributes": { "term": "Music", "label": "Music" }
+      },
+      "rights": {
+        "label": "℗ 2018 John Legend Music, Inc. and Columbia Records, a Division of Sony Music Entertainment"
+      },
+      "title": { "label": "A Legendary Christmas - John Legend" },
+      "link": {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://itunes.apple.com/us/album/a-legendary-christmas/1439836400?uo=2"
+        }
+      },
+      "id": {
+        "label": "https://itunes.apple.com/us/album/a-legendary-christmas/1439836400?uo=2",
+        "attributes": { "im:id": "1439836400" }
+      },
+      "im:artist": {
+        "label": "John Legend",
+        "attributes": {
+          "href": "https://itunes.apple.com/us/artist/john-legend/16586443?uo=2"
+        }
+      },
+      "category": {
+        "attributes": {
+          "im:id": "8",
+          "term": "Holiday",
+          "scheme": "https://itunes.apple.com/us/genre/music-holiday/id8?uo=2",
+          "label": "Holiday"
+        }
+      },
+      "im:releaseDate": {
+        "label": "2018-10-26T00:00:00-07:00",
+        "attributes": { "label": "October 26, 2018" }
+      }
+    },
+    {
+      "im:name": { "label": "Bohemian Rhapsody (The Original Soundtrack)" },
+      "im:image": [
+        {
+          "label": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/02/8f/e4/028fe4bf-2ae8-2492-7f69-927f0216f614/00050087404062.rgb.jpg/55x55bb-85.png",
+          "attributes": { "height": "55" }
+        },
+        {
+          "label": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/02/8f/e4/028fe4bf-2ae8-2492-7f69-927f0216f614/00050087404062.rgb.jpg/60x60bb-85.png",
+          "attributes": { "height": "60" }
+        },
+        {
+          "label": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/02/8f/e4/028fe4bf-2ae8-2492-7f69-927f0216f614/00050087404062.rgb.jpg/170x170bb-85.png",
+          "attributes": { "height": "170" }
+        }
+      ],
+      "im:itemCount": { "label": "22" },
+      "im:price": {
+        "label": "$11.99",
+        "attributes": { "amount": "11.99000", "currency": "USD" }
+      },
+      "im:contentType": {
+        "im:contentType": {
+          "attributes": { "term": "Album", "label": "Album" }
+        },
+        "attributes": { "term": "Music", "label": "Music" }
+      },
+      "rights": { "label": "℗ 2018 Hollywood Records, Inc." },
+      "title": {
+        "label": "Bohemian Rhapsody (The Original Soundtrack) - Queen"
+      },
+      "link": {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://itunes.apple.com/us/album/bohemian-rhapsody-the-original-soundtrack/1434899831?uo=2"
+        }
+      },
+      "id": {
+        "label": "https://itunes.apple.com/us/album/bohemian-rhapsody-the-original-soundtrack/1434899831?uo=2",
+        "attributes": { "im:id": "1434899831" }
+      },
+      "im:artist": {
+        "label": "Queen",
+        "attributes": {
+          "href": "https://itunes.apple.com/us/artist/queen/3296287?uo=2"
+        }
+      },
+      "category": {
+        "attributes": {
+          "im:id": "16",
+          "term": "Soundtrack",
+          "scheme": "https://itunes.apple.com/us/genre/music-soundtrack/id16?uo=2",
+          "label": "Soundtrack"
+        }
+      },
+      "im:releaseDate": {
+        "label": "2018-10-19T00:00:00-07:00",
+        "attributes": { "label": "October 19, 2018" }
+      }
+    },
+    {
+      "im:name": { "label": "love (Deluxe Edition)" },
+      "im:image": [
+        {
+          "label": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/55/b4/45/55b445c0-3d67-167b-0ccc-54bdb1e9b42d/093624903406.jpg/55x55bb-85.png",
+          "attributes": { "height": "55" }
+        },
+        {
+          "label": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/55/b4/45/55b445c0-3d67-167b-0ccc-54bdb1e9b42d/093624903406.jpg/60x60bb-85.png",
+          "attributes": { "height": "60" }
+        },
+        {
+          "label": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/55/b4/45/55b445c0-3d67-167b-0ccc-54bdb1e9b42d/093624903406.jpg/170x170bb-85.png",
+          "attributes": { "height": "170" }
+        }
+      ],
+      "im:itemCount": { "label": "13" },
+      "im:price": {
+        "label": "$11.99",
+        "attributes": { "amount": "11.99000", "currency": "USD" }
+      },
+      "im:contentType": {
+        "im:contentType": {
+          "attributes": { "term": "Album", "label": "Album" }
+        },
+        "attributes": { "term": "Music", "label": "Music" }
+      },
+      "rights": { "label": "℗ 2018 Reprise Records" },
+      "title": { "label": "love (Deluxe Edition) - Michael Bublé" },
+      "link": {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://itunes.apple.com/us/album/love-deluxe-edition/1436702494?uo=2"
+        }
+      },
+      "id": {
+        "label": "https://itunes.apple.com/us/album/love-deluxe-edition/1436702494?uo=2",
+        "attributes": { "im:id": "1436702494" }
+      },
+      "im:artist": {
+        "label": "Michael Bublé",
+        "attributes": {
+          "href": "https://itunes.apple.com/us/artist/michael-bubl%C3%A9/799597?uo=2"
+        }
+      },
+      "category": {
+        "attributes": {
+          "im:id": "14",
+          "term": "Pop",
+          "scheme": "https://itunes.apple.com/us/genre/music-pop/id14?uo=2",
+          "label": "Pop"
+        }
+      },
+      "im:releaseDate": {
+        "label": "2018-11-16T00:00:00-07:00",
+        "attributes": { "label": "November 16, 2018" }
+      }
+    },
+    {
+      "im:name": { "label": "A Pentatonix Christmas (Deluxe)" },
+      "im:image": [
+        {
+          "label": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/de/56/5f/de565faa-b097-62dc-eaa8-e94df3a29fc9/886446670744.jpg/55x55bb-85.png",
+          "attributes": { "height": "55" }
+        },
+        {
+          "label": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/de/56/5f/de565faa-b097-62dc-eaa8-e94df3a29fc9/886446670744.jpg/60x60bb-85.png",
+          "attributes": { "height": "60" }
+        },
+        {
+          "label": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/de/56/5f/de565faa-b097-62dc-eaa8-e94df3a29fc9/886446670744.jpg/170x170bb-85.png",
+          "attributes": { "height": "170" }
+        }
+      ],
+      "im:itemCount": { "label": "16" },
+      "im:price": {
+        "label": "$9.99",
+        "attributes": { "amount": "9.99000", "currency": "USD" }
+      },
+      "im:contentType": {
+        "im:contentType": {
+          "attributes": { "term": "Album", "label": "Album" }
+        },
+        "attributes": { "term": "Music", "label": "Music" }
+      },
+      "rights": {
+        "label": "℗ 2017 RCA Records, a division of Sony Music Entertainment"
+      },
+      "title": { "label": "A Pentatonix Christmas (Deluxe) - Pentatonix" },
+      "link": {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://itunes.apple.com/us/album/a-pentatonix-christmas-deluxe/1296454740?uo=2"
+        }
+      },
+      "id": {
+        "label": "https://itunes.apple.com/us/album/a-pentatonix-christmas-deluxe/1296454740?uo=2",
+        "attributes": { "im:id": "1296454740" }
+      },
+      "im:artist": {
+        "label": "Pentatonix",
+        "attributes": {
+          "href": "https://itunes.apple.com/us/artist/pentatonix/466047278?uo=2"
+        }
+      },
+      "category": {
+        "attributes": {
+          "im:id": "8",
+          "term": "Holiday",
+          "scheme": "https://itunes.apple.com/us/genre/music-holiday/id8?uo=2",
+          "label": "Holiday"
+        }
+      },
+      "im:releaseDate": {
+        "label": "2017-10-20T00:00:00-07:00",
+        "attributes": { "label": "October 20, 2017" }
+      }
+    },
+    {
+      "im:name": { "label": "Origins (Deluxe)" },
+      "im:image": [
+        {
+          "label": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/55/c4/7d/55c47dec-56b9-4f9b-fab4-0f7f394a10a8/00602577199219.rgb.jpg/55x55bb-85.png",
+          "attributes": { "height": "55" }
+        },
+        {
+          "label": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/55/c4/7d/55c47dec-56b9-4f9b-fab4-0f7f394a10a8/00602577199219.rgb.jpg/60x60bb-85.png",
+          "attributes": { "height": "60" }
+        },
+        {
+          "label": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/55/c4/7d/55c47dec-56b9-4f9b-fab4-0f7f394a10a8/00602577199219.rgb.jpg/170x170bb-85.png",
+          "attributes": { "height": "170" }
+        }
+      ],
+      "im:itemCount": { "label": "15" },
+      "im:price": {
+        "label": "$11.99",
+        "attributes": { "amount": "11.99000", "currency": "USD" }
+      },
+      "im:contentType": {
+        "im:contentType": {
+          "attributes": { "term": "Album", "label": "Album" }
+        },
+        "attributes": { "term": "Music", "label": "Music" }
+      },
+      "rights": { "label": "℗ 2018 KIDinaKORNER/Interscope Records" },
+      "title": { "label": "Origins (Deluxe) - Imagine Dragons" },
+      "link": {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://itunes.apple.com/us/album/origins-deluxe/1437948883?uo=2"
+        }
+      },
+      "id": {
+        "label": "https://itunes.apple.com/us/album/origins-deluxe/1437948883?uo=2",
+        "attributes": { "im:id": "1437948883" }
+      },
+      "im:artist": {
+        "label": "Imagine Dragons",
+        "attributes": {
+          "href": "https://itunes.apple.com/us/artist/imagine-dragons/358714030?uo=2"
+        }
+      },
+      "category": {
+        "attributes": {
+          "im:id": "20",
+          "term": "Alternative",
+          "scheme": "https://itunes.apple.com/us/genre/music-alternative/id20?uo=2",
+          "label": "Alternative"
+        }
+      },
+      "im:releaseDate": {
+        "label": "2018-11-09T00:00:00-07:00",
+        "attributes": { "label": "November 9, 2018" }
+      }
+    },
+    {
+      "im:name": { "label": "Christmas (Deluxe Special Edition)" },
+      "im:image": [
+        {
+          "label": "https://is5-ssl.mzstatic.com/image/thumb/Music4/v4/1b/a2/0a/1ba20a87-c3f4-eb44-9ac7-9650ef6dead8/093624946410.jpg/55x55bb-85.png",
+          "attributes": { "height": "55" }
+        },
+        {
+          "label": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/1b/a2/0a/1ba20a87-c3f4-eb44-9ac7-9650ef6dead8/093624946410.jpg/60x60bb-85.png",
+          "attributes": { "height": "60" }
+        },
+        {
+          "label": "https://is2-ssl.mzstatic.com/image/thumb/Music4/v4/1b/a2/0a/1ba20a87-c3f4-eb44-9ac7-9650ef6dead8/093624946410.jpg/170x170bb-85.png",
+          "attributes": { "height": "170" }
+        }
+      ],
+      "im:itemCount": { "label": "20" },
+      "im:price": {
+        "label": "$11.99",
+        "attributes": { "amount": "11.99000", "currency": "USD" }
+      },
+      "im:contentType": {
+        "im:contentType": {
+          "attributes": { "term": "Album", "label": "Album" }
+        },
+        "attributes": { "term": "Music", "label": "Music" }
+      },
+      "rights": { "label": "℗ 2011 Reprise Records" },
+      "title": {
+        "label": "Christmas (Deluxe Special Edition) - Michael Bublé"
+      },
+      "link": {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://itunes.apple.com/us/album/christmas-deluxe-special-edition/669831882?uo=2"
+        }
+      },
+      "id": {
+        "label": "https://itunes.apple.com/us/album/christmas-deluxe-special-edition/669831882?uo=2",
+        "attributes": { "im:id": "669831882" }
+      },
+      "im:artist": {
+        "label": "Michael Bublé",
+        "attributes": {
+          "href": "https://itunes.apple.com/us/artist/michael-bubl%C3%A9/799597?uo=2"
+        }
+      },
+      "category": {
+        "attributes": {
+          "im:id": "8",
+          "term": "Holiday",
+          "scheme": "https://itunes.apple.com/us/genre/music-holiday/id8?uo=2",
+          "label": "Holiday"
+        }
+      },
+      "im:releaseDate": {
+        "label": "2011-10-21T00:00:00-07:00",
+        "attributes": { "label": "October 21, 2011" }
+      }
+    },
+    {
+      "im:name": { "label": "Look Up Child" },
+      "im:image": [
+        {
+          "label": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/e9/b8/8f/e9b88f7c-1ba8-4ed6-53ef-92ad2a13ba48/00829619167009.rgb.jpg/55x55bb-85.png",
+          "attributes": { "height": "55" }
+        },
+        {
+          "label": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e9/b8/8f/e9b88f7c-1ba8-4ed6-53ef-92ad2a13ba48/00829619167009.rgb.jpg/60x60bb-85.png",
+          "attributes": { "height": "60" }
+        },
+        {
+          "label": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/e9/b8/8f/e9b88f7c-1ba8-4ed6-53ef-92ad2a13ba48/00829619167009.rgb.jpg/170x170bb-85.png",
+          "attributes": { "height": "170" }
+        }
+      ],
+      "im:itemCount": { "label": "13" },
+      "im:price": {
+        "label": "$9.99",
+        "attributes": { "amount": "9.99000", "currency": "USD" }
+      },
+      "im:contentType": {
+        "im:contentType": {
+          "attributes": { "term": "Album", "label": "Album" }
+        },
+        "attributes": { "term": "Music", "label": "Music" }
+      },
+      "rights": { "label": "℗ 2018 Centricity Music" },
+      "title": { "label": "Look Up Child - Lauren Daigle" },
+      "link": {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://itunes.apple.com/us/album/look-up-child/1409149359?uo=2"
+        }
+      },
+      "id": {
+        "label": "https://itunes.apple.com/us/album/look-up-child/1409149359?uo=2",
+        "attributes": { "im:id": "1409149359" }
+      },
+      "im:artist": {
+        "label": "Lauren Daigle",
+        "attributes": {
+          "href": "https://itunes.apple.com/us/artist/lauren-daigle/722177758?uo=2"
+        }
+      },
+      "category": {
+        "attributes": {
+          "im:id": "22",
+          "term": "Christian & Gospel",
+          "scheme": "https://itunes.apple.com/us/genre/music-christian-gospel/id22?uo=2",
+          "label": "Christian & Gospel"
+        }
+      },
+      "im:releaseDate": {
+        "label": "2018-09-07T00:00:00-07:00",
+        "attributes": { "label": "September 7, 2018" }
+      }
+    },
+    {
+      "im:name": { "label": "Behold (Deluxe)" },
+      "im:image": [
+        {
+          "label": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/aa/72/e0/aa72e0ac-2a99-20c8-ad17-46aedcc3a5ca/00829619175301.rgb.jpg/55x55bb-85.png",
+          "attributes": { "height": "55" }
+        },
+        {
+          "label": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/aa/72/e0/aa72e0ac-2a99-20c8-ad17-46aedcc3a5ca/00829619175301.rgb.jpg/60x60bb-85.png",
+          "attributes": { "height": "60" }
+        },
+        {
+          "label": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/aa/72/e0/aa72e0ac-2a99-20c8-ad17-46aedcc3a5ca/00829619175301.rgb.jpg/170x170bb-85.png",
+          "attributes": { "height": "170" }
+        }
+      ],
+      "im:itemCount": { "label": "13" },
+      "im:price": {
+        "label": "$9.99",
+        "attributes": { "amount": "9.99000", "currency": "USD" }
+      },
+      "im:contentType": {
+        "im:contentType": {
+          "attributes": { "term": "Album", "label": "Album" }
+        },
+        "attributes": { "term": "Music", "label": "Music" }
+      },
+      "rights": { "label": "℗ 2018 Centricity Music" },
+      "title": { "label": "Behold (Deluxe) - Lauren Daigle" },
+      "link": {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://itunes.apple.com/us/album/behold-deluxe/1435913353?uo=2"
+        }
+      },
+      "id": {
+        "label": "https://itunes.apple.com/us/album/behold-deluxe/1435913353?uo=2",
+        "attributes": { "im:id": "1435913353" }
+      },
+      "im:artist": {
+        "label": "Lauren Daigle",
+        "attributes": {
+          "href": "https://itunes.apple.com/us/artist/lauren-daigle/722177758?uo=2"
+        }
+      },
+      "category": {
+        "attributes": {
+          "im:id": "8",
+          "term": "Holiday",
+          "scheme": "https://itunes.apple.com/us/genre/music-holiday/id8?uo=2",
+          "label": "Holiday"
+        }
+      },
+      "im:releaseDate": {
+        "label": "2018-11-02T00:00:00-07:00",
+        "attributes": { "label": "November 2, 2018" }
+      }
+    },
+    {
+      "im:name": { "label": "Happy Xmas" },
+      "im:image": [
+        {
+          "label": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/12/e3/84/12e38423-7f43-d7d0-1bcf-8f81fa58e92f/822685800085.jpg/55x55bb-85.png",
+          "attributes": { "height": "55" }
+        },
+        {
+          "label": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/12/e3/84/12e38423-7f43-d7d0-1bcf-8f81fa58e92f/822685800085.jpg/60x60bb-85.png",
+          "attributes": { "height": "60" }
+        },
+        {
+          "label": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/12/e3/84/12e38423-7f43-d7d0-1bcf-8f81fa58e92f/822685800085.jpg/170x170bb-85.png",
+          "attributes": { "height": "170" }
+        }
+      ],
+      "im:itemCount": { "label": "14" },
+      "im:price": {
+        "label": "$10.99",
+        "attributes": { "amount": "10.99000", "currency": "USD" }
+      },
+      "im:contentType": {
+        "im:contentType": {
+          "attributes": { "term": "Album", "label": "Album" }
+        },
+        "attributes": { "term": "Music", "label": "Music" }
+      },
+      "rights": {
+        "label": "℗ 2018 EPC Enterprises LLC Distributed exclusively in North America by Surfdog Records"
+      },
+      "title": { "label": "Happy Xmas - Eric Clapton" },
+      "link": {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://itunes.apple.com/us/album/happy-xmas/1437161421?uo=2"
+        }
+      },
+      "id": {
+        "label": "https://itunes.apple.com/us/album/happy-xmas/1437161421?uo=2",
+        "attributes": { "im:id": "1437161421" }
+      },
+      "im:artist": {
+        "label": "Eric Clapton",
+        "attributes": {
+          "href": "https://itunes.apple.com/us/artist/eric-clapton/123853?uo=2"
+        }
+      },
+      "category": {
+        "attributes": {
+          "im:id": "8",
+          "term": "Holiday",
+          "scheme": "https://itunes.apple.com/us/genre/music-holiday/id8?uo=2",
+          "label": "Holiday"
+        }
+      },
+      "im:releaseDate": {
+        "label": "2018-10-12T00:00:00-07:00",
+        "attributes": { "label": "October 12, 2018" }
+      }
+    },
+    {
+      "im:name": { "label": "Greatest Hits (Remastered)" },
+      "im:image": [
+        {
+          "label": "https://is4-ssl.mzstatic.com/image/thumb/Music1/v4/be/37/79/be3779d4-4b83-8da8-7fab-2c3f538986c9/603497885176.jpg/55x55bb-85.png",
+          "attributes": { "height": "55" }
+        },
+        {
+          "label": "https://is5-ssl.mzstatic.com/image/thumb/Music1/v4/be/37/79/be3779d4-4b83-8da8-7fab-2c3f538986c9/603497885176.jpg/60x60bb-85.png",
+          "attributes": { "height": "60" }
+        },
+        {
+          "label": "https://is4-ssl.mzstatic.com/image/thumb/Music1/v4/be/37/79/be3779d4-4b83-8da8-7fab-2c3f538986c9/603497885176.jpg/170x170bb-85.png",
+          "attributes": { "height": "170" }
+        }
+      ],
+      "im:itemCount": { "label": "17" },
+      "im:price": {
+        "label": "$4.99",
+        "attributes": { "amount": "4.99000", "currency": "USD" }
+      },
+      "im:contentType": {
+        "im:contentType": {
+          "attributes": { "term": "Album", "label": "Album" }
+        },
+        "attributes": { "term": "Music", "label": "Music" }
+      },
+      "rights": {
+        "label": "℗ 2015 Rhino Entertainment Company, A Warner Music Group Company."
+      },
+      "title": { "label": "Greatest Hits (Remastered) - Linda Ronstadt" },
+      "link": {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://itunes.apple.com/us/album/greatest-hits-remastered/1028814908?uo=2"
+        }
+      },
+      "id": {
+        "label": "https://itunes.apple.com/us/album/greatest-hits-remastered/1028814908?uo=2",
+        "attributes": { "im:id": "1028814908" }
+      },
+      "im:artist": {
+        "label": "Linda Ronstadt",
+        "attributes": {
+          "href": "https://itunes.apple.com/us/artist/linda-ronstadt/148850?uo=2"
+        }
+      },
+      "category": {
+        "attributes": {
+          "im:id": "14",
+          "term": "Pop",
+          "scheme": "https://itunes.apple.com/us/genre/music-pop/id14?uo=2",
+          "label": "Pop"
+        }
+      },
+      "im:releaseDate": {
+        "label": "2015-06-24T00:00:00-07:00",
+        "attributes": { "label": "June 24, 2015" }
+      }
+    },
+    {
+      "im:name": { "label": "The Ultimate Collection" },
+      "im:image": [
+        {
+          "label": "https://is5-ssl.mzstatic.com/image/thumb/Music/c0/30/f8/mzi.yuwsvyfh.jpg/55x55bb-85.png",
+          "attributes": { "height": "55" }
+        },
+        {
+          "label": "https://is3-ssl.mzstatic.com/image/thumb/Music/c0/30/f8/mzi.yuwsvyfh.jpg/60x60bb-85.png",
+          "attributes": { "height": "60" }
+        },
+        {
+          "label": "https://is2-ssl.mzstatic.com/image/thumb/Music/c0/30/f8/mzi.yuwsvyfh.jpg/170x170bb-85.png",
+          "attributes": { "height": "170" }
+        }
+      ],
+      "im:itemCount": { "label": "19" },
+      "im:price": {
+        "label": "$4.99",
+        "attributes": { "amount": "4.99000", "currency": "USD" }
+      },
+      "im:contentType": {
+        "im:contentType": {
+          "attributes": { "term": "Album", "label": "Album" }
+        },
+        "attributes": { "term": "Music", "label": "Music" }
+      },
+      "rights": {
+        "label": "℗ 2005 Warner Bros. Records Inc. Marketed by Rhino Entertainment Company, a Warner Music Group Company."
+      },
+      "title": { "label": "The Ultimate Collection - Michael McDonald" },
+      "link": {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://itunes.apple.com/us/album/the-ultimate-collection/323436531?uo=2"
+        }
+      },
+      "id": {
+        "label": "https://itunes.apple.com/us/album/the-ultimate-collection/323436531?uo=2",
+        "attributes": { "im:id": "323436531" }
+      },
+      "im:artist": {
+        "label": "Michael McDonald",
+        "attributes": {
+          "href": "https://itunes.apple.com/us/artist/michael-mcdonald/62522?uo=2"
+        }
+      },
+      "category": {
+        "attributes": {
+          "im:id": "14",
+          "term": "Pop",
+          "scheme": "https://itunes.apple.com/us/genre/music-pop/id14?uo=2",
+          "label": "Pop"
+        }
+      },
+      "im:releaseDate": {
+        "label": "2005-08-09T00:00:00-07:00",
+        "attributes": { "label": "August 9, 2005" }
+      }
+    },
+    {
+      "im:name": { "label": "Number 1's: Christmas" },
+      "im:image": [
+        {
+          "label": "https://is2-ssl.mzstatic.com/image/thumb/Music3/v4/e4/13/36/e41336cd-6e96-c249-0144-8589cbe0f739/dj.ocqqejih.jpg/55x55bb-85.png",
+          "attributes": { "height": "55" }
+        },
+        {
+          "label": "https://is5-ssl.mzstatic.com/image/thumb/Music3/v4/e4/13/36/e41336cd-6e96-c249-0144-8589cbe0f739/dj.ocqqejih.jpg/60x60bb-85.png",
+          "attributes": { "height": "60" }
+        },
+        {
+          "label": "https://is4-ssl.mzstatic.com/image/thumb/Music3/v4/e4/13/36/e41336cd-6e96-c249-0144-8589cbe0f739/dj.ocqqejih.jpg/170x170bb-85.png",
+          "attributes": { "height": "170" }
+        }
+      ],
+      "im:itemCount": { "label": "17" },
+      "im:price": {
+        "label": "$7.99",
+        "attributes": { "amount": "7.99000", "currency": "USD" }
+      },
+      "im:contentType": {
+        "im:contentType": {
+          "attributes": { "term": "Album", "label": "Album" }
+        },
+        "attributes": { "term": "Music", "label": "Music" }
+      },
+      "rights": {
+        "label": "℗ 2007 Universal Music Enterprises, a Division of UMG Recordings, Inc."
+      },
+      "title": { "label": "Number 1's: Christmas - Various Artists" },
+      "link": {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://itunes.apple.com/us/album/number-1s-christmas/264323152?uo=2"
+        }
+      },
+      "id": {
+        "label": "https://itunes.apple.com/us/album/number-1s-christmas/264323152?uo=2",
+        "attributes": { "im:id": "264323152" }
+      },
+      "im:artist": { "label": "Various Artists" },
+      "category": {
+        "attributes": {
+          "im:id": "8",
+          "term": "Holiday",
+          "scheme": "https://itunes.apple.com/us/genre/music-holiday/id8?uo=2",
+          "label": "Holiday"
+        }
+      },
+      "im:releaseDate": {
+        "label": "2007-09-25T00:00:00-07:00",
+        "attributes": { "label": "September 25, 2007" }
+      }
+    },
+    {
+      "im:name": { "label": "Christmas" },
+      "im:image": [
+        {
+          "label": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/95/da/b2/95dab2db-b597-d466-490d-58aa56b54a17/093624942788.jpg/55x55bb-85.png",
+          "attributes": { "height": "55" }
+        },
+        {
+          "label": "https://is4-ssl.mzstatic.com/image/thumb/Music6/v4/95/da/b2/95dab2db-b597-d466-490d-58aa56b54a17/093624942788.jpg/60x60bb-85.png",
+          "attributes": { "height": "60" }
+        },
+        {
+          "label": "https://is2-ssl.mzstatic.com/image/thumb/Music6/v4/95/da/b2/95dab2db-b597-d466-490d-58aa56b54a17/093624942788.jpg/170x170bb-85.png",
+          "attributes": { "height": "170" }
+        }
+      ],
+      "im:itemCount": { "label": "16" },
+      "im:price": {
+        "label": "$9.99",
+        "attributes": { "amount": "9.99000", "currency": "USD" }
+      },
+      "im:contentType": {
+        "im:contentType": {
+          "attributes": { "term": "Album", "label": "Album" }
+        },
+        "attributes": { "term": "Music", "label": "Music" }
+      },
+      "rights": { "label": "℗ 2011 Reprise Records" },
+      "title": { "label": "Christmas - Michael Bublé" },
+      "link": {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://itunes.apple.com/us/album/christmas/669854820?uo=2"
+        }
+      },
+      "id": {
+        "label": "https://itunes.apple.com/us/album/christmas/669854820?uo=2",
+        "attributes": { "im:id": "669854820" }
+      },
+      "im:artist": {
+        "label": "Michael Bublé",
+        "attributes": {
+          "href": "https://itunes.apple.com/us/artist/michael-bubl%C3%A9/799597?uo=2"
+        }
+      },
+      "category": {
+        "attributes": {
+          "im:id": "8",
+          "term": "Holiday",
+          "scheme": "https://itunes.apple.com/us/genre/music-holiday/id8?uo=2",
+          "label": "Holiday"
+        }
+      },
+      "im:releaseDate": {
+        "label": "2011-10-14T00:00:00-07:00",
+        "attributes": { "label": "October 14, 2011" }
+      }
+    }
+  ],
+  "updated": { "label": "2018-11-25T03:05:25-07:00" },
+  "rights": { "label": "Copyright 2008 Apple Inc." },
+  "title": { "label": "iTunes Store: Top Albums" },
+  "icon": { "label": "http://itunes.apple.com/favicon.ico" },
+  "link": [
+    {
+      "attributes": {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?cc=us&id=1&popId=11"
+      }
+    },
+    {
+      "attributes": {
+        "rel": "self",
+        "href": "https://itunes.apple.com/us/rss/topalbums/limit=20/json"
+      }
+    }
+  ],
+  "id": { "label": "https://itunes.apple.com/us/rss/topalbums/limit=20/json" }
+}

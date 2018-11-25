@@ -1,0 +1,76 @@
+.main-app {
+  background: url("../../images/pexels-photo-167092.jpeg") top center no-repeat;
+  -webkit-background-size: contain;
+  background-size: contain;
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  overflow-y: auto;
+  &__header {
+    margin-bottom: 25px;
+    h1 {
+      font-size: 4vw;
+      letter-spacing: 10px;
+      line-height: 1;
+      text-align: center;
+      padding: 20px 0;
+      font-weight: 800;
+      color: rgba(255, 255, 255, 0.85);
+      text-shadow: 3px 3px rgba(0, 0, 0, 0.55);
+      text-transform: uppercase;
+      border-bottom: 1px rgba(255, 255, 255, 0.45) solid;
+      margin-bottom: 0;
+    }
+  }
+}
+.faded{
+  animation: faded 1.2s 1 ease-in-out;
+}
+.loader{
+  display: flex;
+  width: 100%;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3em;
+  letter-spacing: 1px;
+  color: #999999;
+  span{
+    position: relative;
+    &:after{
+      content: '';
+      display: inline-block;
+      padding-right: 10px;
+      animation: loading .8s infinite linear alternate;
+      position: absolute;
+      top: 0;
+      left: 100%;
+      display: block;
+    }
+  }
+}
+@keyframes faded{
+  0%{
+    opacity: 0;
+  }
+  100%{
+    opacity: 1;
+  }
+}
+@keyframes loading {
+  0%{
+    content: '.';
+  }
+  25%{
+    content: '..';
+  }
+  50%{
+    content: '...';
+  }
+  75%{
+    content: '....';
+  }
+  100%{
+    content: '.....';
+  }
+}

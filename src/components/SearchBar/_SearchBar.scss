@@ -1,0 +1,26 @@
+.search-bar {
+  margin-bottom: 15px;
+  &__text {
+    $btn-width: 50px;
+    %elements-config {
+      height: 45px;
+      opacity: 0.9;
+    }
+    width: 100%;
+    max-width: 640px;
+    margin: 0 auto;
+    .form-control {
+      width: calc(100% - #{$btn-width});
+      float: left;
+      border-top-right-radius: 0px;
+      border-bottom-right-radius: 0px;
+      @extend %elements-config;
+    }
+    .btn {
+      width: $btn-width;
+      border-top-left-radius: 0px;
+      border-bottom-left-radius: 0px;
+      @extend %elements-config;
+    }
+  }
+}
