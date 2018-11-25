@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import "./App.css";
 import { getData } from "../../utils/api";
+import Albums from "../Albums/Albums";
 
 class App extends Component {
   constructor(props) {
@@ -20,7 +21,13 @@ class App extends Component {
 
   render() {
     const { albums } = this.state;
-    return albums.length > 0 ? <div className="App" /> : <span>Loading..</span>
+    return albums.length > 0 ? (
+      <div className="App">
+        <Albums albums={albums} />
+      </div>
+    ) : (
+      <span>Loading..</span>
+    );
   }
 }
 
