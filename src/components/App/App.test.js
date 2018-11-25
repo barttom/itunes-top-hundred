@@ -18,7 +18,8 @@ describe("<App/> tests", () => {
   it("Renders <Albums/> when have data", () => {
     const wrapper = shallow(<App />);
     wrapper.setState({
-      albums: data.entry
+      albums: data.entry,
+      cachedAlbums: data.entry
     });
     expect(wrapper.find("Albums")).toHaveLength(1);
   });

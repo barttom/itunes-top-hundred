@@ -10,11 +10,23 @@ class SearchBar extends Component {
       textFilter: ""
     };
   }
+
+  componentDidUpdate(prevProps, prevState) {
+    if (prevState.textFilter.length > 0 && this.state.textFilter.length === 0) {
+      this.searchAlbum();
+    }
+  }
+
   changeHandler = event => {
     this.setState({
       [event.target.name]: event.target.value
     });
   };
+
+  searchAlbum = () => {
+    this.props.onSearch(this.state.textFilter);
+  };
+
   render() {
     return (
       <section className="search-bar">
@@ -25,8 +37,13 @@ class SearchBar extends Component {
             name="textFilter"
             value={this.state.textFilter}
             onChange={this.changeHandler}
+            onKeyPress={event => {
+              if (event.key === "Enter") {
+                this.searchAlbum();
+              }
+            }}
           />
-          <button className="btn btn-primary">
+          <button className="btn btn-primary" onClick={this.searchAlbum}>
             <Search />
           </button>
         </div>
