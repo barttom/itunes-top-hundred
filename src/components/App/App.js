@@ -23,7 +23,7 @@ class App extends Component {
   render() {
     const { albums } = this.state;
     return albums.length > 0 ? (
-      <main id="itunes-top-hundred" className="main-app">
+      <main id="itunes-top-hundred" className="main-app faded">
         <div className="container-fluid">
           <header className="main-app__header">
             <h1>Top 100 albums</h1>
@@ -33,7 +33,9 @@ class App extends Component {
         </div>
       </main>
     ) : (
-      <span>Loading...</span>
+      <div className="loader">
+        <span>Loading</span>
+      </div>
     );
   }
 }

@@ -6,10 +6,10 @@ import data from "../../tests/testData";
 describe("<App/> tests", () => {
   it("renders text `Loading` when don't have data", () => {
     const wrapper = shallow(<App />);
-    expect(wrapper.find("span")).toHaveLength(1);
+    expect(wrapper.find(".loader")).toHaveLength(1);
     expect(
       wrapper
-        .find("span")
+        .find(".loader")
         .text()
         .toLowerCase()
         .includes("loading")
