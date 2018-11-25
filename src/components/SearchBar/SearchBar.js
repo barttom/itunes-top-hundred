@@ -1,15 +1,14 @@
-import React, {Component} from 'react';
-import PropTypes from 'prop-types';
+import React, { Component } from "react";
+import PropTypes from "prop-types";
 
-class SearchBar extends Component{
+class SearchBar extends Component {
   render() {
     return (
       <section className="search">
-        <input type="text"/>
+        <input type="text" />
       </section>
     );
   }
-};
-
+}
 
 export default SearchBar;

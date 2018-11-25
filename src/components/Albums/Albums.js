@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import SingleAlbum from "../SingleAlbum/SingleAlbum";
-import "./_Albums.scss"
+import "./_Albums.scss";
 
 const Albums = ({ albums }) => (
   <ul className="list-unstyled albums">

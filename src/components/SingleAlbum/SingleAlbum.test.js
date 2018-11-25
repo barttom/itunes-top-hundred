@@ -26,8 +26,10 @@ describe("<SingleAlbum tets", () => {
         .trim()
     ).toMatch(mockProps["im:artist"].label);
   });
-  it("Link is not empty", ()=>{
+  it("Link is not empty", () => {
     const wrapper = shallow(<SingleAlbum album={mockProps} />);
-    expect(wrapper.find(".single-album a").prop("href")).toMatch(/(https?:\/\/[^\s]+)/g)
+    expect(wrapper.find(".single-album a").prop("href")).toMatch(
+      /(https?:\/\/[^\s]+)/g
+    );
   });
 });

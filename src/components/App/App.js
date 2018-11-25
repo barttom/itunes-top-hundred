@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { getData } from "../../utils/api";
 import Albums from "../Albums/Albums";
-import "./_App.scss"
+import "./_App.scss";
 import SearchBar from "../SearchBar/SearchBar";
 
 class App extends Component {
