@@ -1,16 +1,15 @@
-import React from 'react';
+import React, {Component} from 'react';
 import PropTypes from 'prop-types';
 
-const SearchBar = props => {
-  return (
-    <header className="main-header">
-
-    </header>
-  );
+class SearchBar extends Component{
+  render() {
+    return (
+      <section className="search">
+        <input type="text"/>
+      </section>
+    );
+  }
 };
 
-SearchBar.propTypes = {
-
-};
 
 export default SearchBar;
