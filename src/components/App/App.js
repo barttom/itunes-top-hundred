@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import "./App.css";
 import { getData } from "../../utils/api";
 import Albums from "../Albums/Albums";
 
@@ -22,9 +21,11 @@ class App extends Component {
   render() {
     const { albums } = this.state;
     return albums.length > 0 ? (
-      <div id ="itunes-top-hundred">
-        <Albums albums={albums} />
-      </div>
+      <main id ="itunes-top-hundred">
+        <div className="container-fluid">
+          <Albums albums={albums} />
+        </div>
+      </main>
     ) : (
       <span>Loading...</span>
     );

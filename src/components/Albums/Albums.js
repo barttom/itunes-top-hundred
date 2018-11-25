@@ -1,9 +1,10 @@
 import React from "react";
 import PropTypes from "prop-types";
 import SingleAlbum from "../SingleAlbum/SingleAlbum";
+import "./_Albums.scss"
 
 const Albums = ({ albums }) => (
-  <ul>
+  <ul className="list-unstyled albums">
     {albums.map(album => (
       <SingleAlbum key={album.id.label} album={album} />
     ))}
