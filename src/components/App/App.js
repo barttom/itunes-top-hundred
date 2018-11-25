@@ -22,11 +22,11 @@ class App extends Component {
   render() {
     const { albums } = this.state;
     return albums.length > 0 ? (
-      <div className="App">
+      <div id ="itunes-top-hundred">
         <Albums albums={albums} />
       </div>
     ) : (
-      <span>Loading..</span>
+      <span>Loading...</span>
     );
   }
 }
