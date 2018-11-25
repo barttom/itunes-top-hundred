@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import { getData } from "../../utils/api";
 import Albums from "../Albums/Albums";
+import "./_App.scss"
+import SearchBar from "../SearchBar/SearchBar";
 
 class App extends Component {
   constructor(props) {
@@ -21,8 +23,12 @@ class App extends Component {
   render() {
     const { albums } = this.state;
     return albums.length > 0 ? (
-      <main id ="itunes-top-hundred">
+      <main id="itunes-top-hundred" className="main-app">
         <div className="container-fluid">
+          <header className="main-app__header">
+            <h1>Top 100 albums</h1>
+          </header>
+          <SearchBar />
           <Albums albums={albums} />
         </div>
       </main>

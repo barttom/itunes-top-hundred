@@ -1,0 +1,24 @@
+.main-app{
+  background: url("../../images/pexels-photo-167092.jpeg") top center no-repeat;
+  -webkit-background-size: contain;
+  background-size: contain;
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  overflow-y: auto;
+  &__header{
+    h1{
+      font-size: 4vw;
+      letter-spacing: 10px;
+      line-height: 1;
+      text-align: center;
+      padding: 20px 0;
+      font-weight: 800;
+      color: rgba(255,255,255, .85);
+      text-shadow: 3px 3px  rgba(0,0,0,.55);
+      text-transform: uppercase;
+      border-bottom: 1px rgba(255,255,255, .45) solid;
+      margin-bottom: 20px;
+    }
+  }
+}
