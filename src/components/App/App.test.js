@@ -4,6 +4,11 @@ import { shallow, mount } from "enzyme";
 import data from "../../tests/testData";
 
 describe("<App/> tests", () => {
+  const mockState = {
+    albums: data.entry,
+    cachedAlbums: data.entry,
+    updateDate: new Date(data.updated.label)
+  };
   it("renders text `Loading` when don't have data", () => {
     const wrapper = shallow(<App />);
     expect(wrapper.find(".loader")).toHaveLength(1);
@@ -17,18 +22,22 @@ describe("<App/> tests", () => {
   });
   it("Renders <Albums/> when have data", () => {
     const wrapper = shallow(<App />);
-    wrapper.setState({
-      albums: data.entry,
-      cachedAlbums: data.entry
-    });
+    wrapper.setState(mockState);
     expect(wrapper.find("Albums")).toHaveLength(1);
+  });
+  it("Show update date", () => {
+    const wrapper = shallow(<App />);
+    wrapper.setState(mockState);
+    expect(
+      wrapper
+        .find(".suffix")
+        .text()
+        .includes(new Date(data.updated.label).toLocaleDateString())
+    );
   });
   describe("text filter flow", () => {
     const wrapper = mount(<App />);
-    wrapper.setState({
-      albums: data.entry,
-      cachedAlbums: data.entry
-    });
+    wrapper.setState(mockState);
 
     it("After pressing button, filters works correctly", () => {
       wrapper.find(".search-bar input").simulate("change", {

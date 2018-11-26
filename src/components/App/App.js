@@ -11,7 +11,8 @@ class App extends Component {
     super(props);
     this.state = {
       albums: [],
-      cachedAlbums: []
+      cachedAlbums: [],
+      updateDate: null
     };
   }
 
@@ -19,7 +20,8 @@ class App extends Component {
     getData(data => {
       this.setState({
         albums: data.entry,
-        cachedAlbums: data.entry
+        cachedAlbums: data.entry,
+        updateDate: new Date(data.updated.label)
       });
     });
   }
@@ -46,7 +48,12 @@ class App extends Component {
       <main id="itunes-top-hundred" className="main-app faded">
         <div className="container-fluid">
           <header className="main-app__header">
-            <h1>Top 100 albums</h1>
+            <h1>
+              <span>Top 100 albums</span>
+              <span className="suffix">
+                last update: {this.state.updateDate.toLocaleDateString()}
+              </span>
+            </h1>
           </header>
           <SearchBar onSearch={this.filterAlbumsByText} />
           <Albums albums={albums} />
