@@ -1,4 +1,19 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##About
+This is simpley appfor displaying top 100 albums form iTunes store. 
+
+Features:
+* display albums from RSS response
+* filtering by text
+* RWD
+* Redirecting for more info into iTunes album page
+
+TechStack
+* React
+* Twiter Bootstrap
+* SASS
+* Unit tests (JestJS + Enzyme)
+
 
 ## Available Scripts
 
