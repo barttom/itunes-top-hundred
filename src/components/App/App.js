@@ -3,6 +3,8 @@ import { getData } from "../../utils/api";
 import Albums from "../Albums/Albums";
 import "./_App.scss";
 import SearchBar from "../SearchBar/SearchBar";
+import ScrollToTop from "react-scroll-up";
+import { ArrowUp } from "react-feather";
 
 class App extends Component {
   constructor(props) {
@@ -49,6 +51,17 @@ class App extends Component {
           <SearchBar onSearch={this.filterAlbumsByText} />
           <Albums albums={albums} />
         </div>
+        <ScrollToTop
+          showUnder={320}
+          style={{
+            right: "15px",
+            bottom: "15px"
+          }}
+        >
+          <span>
+            <ArrowUp size={30} />
+          </span>
+        </ScrollToTop>
       </main>
     ) : (
       <div className="loader">

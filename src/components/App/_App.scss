@@ -1,11 +1,9 @@
-.main-app {
-  background: url("../../images/pexels-photo-167092.jpeg") top center no-repeat;
+body{
+  background: url("../../images/pexels-photo-167092.jpeg") top center no-repeat fixed;
   -webkit-background-size: contain;
   background-size: contain;
-  position: fixed;
-  width: 100vw;
-  height: 100vh;
-  overflow-y: auto;
+}
+.main-app {
   &__header {
     margin-bottom: 25px;
     h1 {

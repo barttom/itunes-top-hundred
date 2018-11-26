@@ -9,6 +9,9 @@
   -webkit-box-shadow: 0px 0px 10px -3px rgba(71, 71, 71, 0.61);
   -moz-box-shadow: 0px 0px 10px -3px rgba(71, 71, 71, 0.61);
   box-shadow: 0px 0px 10px -3px rgba(71, 71, 71, 0.61);
+  @media all and(max-width: 768px) {
+    font-size: 12px;
+  }
   & > * {
     float: left;
     height: 100%;
