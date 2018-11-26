@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/itunes-top-hundred/static/js/runtime~main.92f41c6a.js"
   },
   {
-    "revision": "6af26d52f7284bd78dc6",
-    "url": "/itunes-top-hundred/static/js/main.6af26d52.chunk.js"
+    "revision": "aabb920f2eef58a7fca8",
+    "url": "/itunes-top-hundred/static/js/main.aabb920f.chunk.js"
   },
   {
     "revision": "b9ed15b2fa43bcc21969",
     "url": "/itunes-top-hundred/static/js/1.b9ed15b2.chunk.js"
   },
   {
-    "revision": "6af26d52f7284bd78dc6",
-    "url": "/itunes-top-hundred/static/css/main.96b4f25a.chunk.css"
+    "revision": "aabb920f2eef58a7fca8",
+    "url": "/itunes-top-hundred/static/css/main.50ab4faa.chunk.css"
   },
   {
     "revision": "b9ed15b2fa43bcc21969",
     "url": "/itunes-top-hundred/static/css/1.10052d42.chunk.css"
   },
   {
-    "revision": "e4457ad5cbc8d193929f14f89c634b37",
+    "revision": "1c3a985fa4b9bd679b5acedc490c8d9b",
     "url": "/itunes-top-hundred/index.html"
   }
 ];
