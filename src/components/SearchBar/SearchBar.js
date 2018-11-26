@@ -4,6 +4,10 @@ import { Search } from "react-feather";
 import "./_SearchBar.scss";
 
 class SearchBar extends Component {
+  static propTypes = {
+    onSearch: PropTypes.func
+  };
+  
   constructor(props) {
     super(props);
     this.state = {
